@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Tech Stack 💻
 <BR><BR>
-
+       
 <ul>
   <li>Python</li>
   <li>Data Science & Machine Learning</li>
@@ -76,3 +76,8 @@ How to reach me  - <BR>
 Linkedin - <a href="https://www.linkedin.com/in/vijarp/">vijarp</a><BR>
 Skype - vijarp1 <BR>
 Email - vijeetdeliwala@gmail.com
+
+
+<!--![Vijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijarp&show_icons=true&hide_border=true%29)-->
+
+
