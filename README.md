@@ -1,83 +1,40 @@
-## Hi, I'm Vijeet 👋 And I love to code. 👋
+# Hi, I'm Vijeet 👋
 
-<!--
-**vijarp/vijarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love to code. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Freelance Full-Stack Developer
 
-<h3>Freelance Full-Stack Developer</h3>
+### 🌐 Tech Stack 💻
 
-Tech Stack 💻
-<BR><BR>
-       
-<ul>
-  <li>Python</li>
-  <li>Data Science & Machine Learning</li>
-  <li>AI</li>
-  <li>Django</li>
+| **Languages & Frameworks**   | **Tools & Platforms**        | **Design**             |
+|-----------------------------|------------------------------|------------------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)         | ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)   | ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white) |
+| ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)          | ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white)         | ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)                 | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)         | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)      |
+| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)            | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)         | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white) |
+| ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)      | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)               | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)    |
+| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)      | ![Chrome Extensions](https://img.shields.io/badge/-Chrome%20Extensions-4285F4?logo=google-chrome&logoColor=white)  |  |
 
-  </ul>
-  <ul>
-  <li>PHP</li>
-  <li>Wordpress</li>
-  <li>Elementor</li>
-  <li>Woocommerce</li>
-  <li>Shopify</li>
-  <li>Laravel</li>
-  </ul>
-    <ul><li>React</li>
-  <li>React Native</li>
-  <li>Flutter</li>
-    </ul>
-    <ul><li>Node JS</li>
-  <li>Express</li>
-    </ul>
-    <ul><li>SQL</li>
-  <li>Mysql</li>
-  <li>MongoDB</li></ul>
+### 💗 What I Like
 
-  <ul>
-  <li>CSS</li>
-  <li>Tailwind</li>
-  <li>Bootstrap</li>
-  <li>HTML5</li>
-  </ul>
-  <ul><li>Photoshop</li>
-  <li>Illustrator</li>
-  <li>Figma</li>
-  <li>Chrome Extensions</li>
-</ul>
+- Frontend. Backend. Weekend. 😝
+- Automating EVERYTHING 🛠️
+- Keeping things neat, simple, and clean 🧹
 
+### 🎯 Interests
 
-What I like 💗
+- Chess ♟️
+- Cricket 🏏
+- Music 🎵
+- Travel ✈️🌎
 
-Frontend. Backend. Weekend. 😝
+---
 
-Automating EVERYTHING
+## 📬 How to Reach Me
 
-Keeping things neat, simple and clean - My code, my home, my life
-
-Chess ♟️<BR>
-Cricket 🏏<BR>
-Music 🎵<BR>
-Travel ✈️🌎<BR>
-
-How to reach me  - <BR>
-Linkedin - <a href="https://www.linkedin.com/in/vijarp/">vijarp</a><BR>
-Skype - vijarp1 <BR>
-Email - vijeetdeliwala@gmail.com
-
-
-<!--![Vijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijarp&show_icons=true&hide_border=true%29)-->
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijarp)
+[![Skype](https://img.shields.io/badge/-Skype-00AFF0?logo=skype&logoColor=white)](skype:vijarp1?chat)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:vijeetdeliwala@gmail.com)
 
