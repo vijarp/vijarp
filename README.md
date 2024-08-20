@@ -35,6 +35,7 @@ I love to code. 🚀
 ## 📬 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijarp)
-[![Skype](https://img.shields.io/badge/-Skype-00AFF0?logo=skype&logoColor=white)](skype:vijarp1?chat)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:vijeetdeliwala@gmail.com)
+
+**Skype:** [vijarp1](skype:vijarp1?chat)
 
