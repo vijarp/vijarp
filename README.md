@@ -19,10 +19,10 @@ I love to code. 🚀
 
 ### 💗 What I Like
 
-- Frontend. Backend. Weekend. 😝
+- Coding
+- Learning and Exploring
 - Automating EVERYTHING 🛠️
-- Keeping things neat, simple, and clean 🧹
-
+- 
 ### 🎯 Interests
 
 - Chess ♟️
